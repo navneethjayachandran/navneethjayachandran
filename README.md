@@ -1,16 +1,35 @@
-## Hi there 👋
+# Navneeth Jayachandran ✨
 
-<!--
-**navneethjayachandran/navneethjayachandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Navneeth Jayachandran**. I completed my education in Nigeria at Peakfield Academy 🎓.
 
-Here are some ideas to get you started:
+I’m interested in 💻 technology, 🖌️ design, 🤖 artificial intelligence, and building projects 📚. I also enjoy exploring 🌍 countries, towns, nature 🌿, and automobiles 🚗.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Check out my writing and projects on [Medium](https://medium.com/@navneethjayachandran7rar) ✍️
+
+---
+
+### 🎓 Education
+- Completed my education at **Peakfield Academy**, Nigeria  
+- Focused on learning, exploring new ideas, and developing skills  
+
+---
+
+### 🔭 I’m currently working on
+- Learning new programming skills and small projects  
+- Exploring AI concepts and design ideas  
+
+### 🌱 I’m currently learning
+- Advanced programming techniques  
+- How technology interacts with everyday life  
+- Travel and cultural exploration  
+
+### 💬 Ask me about
+- Technology, AI, programming, and design  
+- Writing and documenting projects  
+- Countries, nature, and automobiles  
+
+### 😄 Pronouns
+- He/Him  
+
+### ⚡ Fun fact
+- I love playing video games 🎮 and discovering new places ✈️
