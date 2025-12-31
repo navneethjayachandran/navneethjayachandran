@@ -16,15 +16,18 @@ I’m interested in 💻 technology, 🖌️ design, 🤖 artificial intelligenc
 
 ### 🔭 I’m currently working on
 - Learning new programming skills and small projects  
-- Exploring AI concepts and design ideas  
+- Exploring AI concepts and design ideas
+- Developing skills in trading, dropshipping, and online business models
 
 ### 🌱 I’m currently learning
 - Advanced programming techniques  
-- How technology interacts with everyday life  
+- How technology interacts with everyday life
+- Trading strategies, e-commerce, and online income systems
 - Travel and cultural exploration  
 
 ### 💬 Ask me about
-- Technology, AI, programming, and design  
+- Technology, AI, programming, and design
+- Trading, dropshipping, and online businesses
 - Writing and documenting projects  
 - Countries, nature, and automobiles  
 
