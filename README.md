@@ -1,6 +1,6 @@
 # Navneeth Jayachandran ✨
 
-Hi, I'm **Navneeth Jayachandran**. an Indian who completed my education in Nigeria at Peakfield Academy 🎓.
+Hi, I'm **Navneeth Jayachandran**. an Indian who completed my schooling in Nigeria at Peakfield Academy 🎓.
 
 I’m interested in 💻 technology, 🖌️ design, 🤖 artificial intelligence, and building projects 📚. I also enjoy exploring 🌍 countries, towns, nature 🌿, and automobiles 🚗.
 
@@ -9,7 +9,7 @@ I’m interested in 💻 technology, 🖌️ design, 🤖 artificial intelligenc
 ---
 
 ### 🎓 Education
-- Completed my education at **Peakfield Academy**, Nigeria  
+- Completed my schooling at **Peakfield Academy**, Nigeria  
 - Focused on learning, exploring new ideas, and developing skills  
 
 ---
